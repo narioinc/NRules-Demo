@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="NrulesBasicDemo/NrulesBasicDemo.csproj" />
+  <Project Path="NrulesBuilderDemo/NrulesBuilderDemo.csproj" />
+  <Project Path="Rules/Rules.csproj" />
+</Solution>
